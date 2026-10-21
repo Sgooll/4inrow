@@ -1,4 +1,4 @@
-package com.example.four3
+package com.kfbs.fourinrow
 
 import io.flutter.embedding.android.FlutterActivity
 
